@@ -10,3 +10,6 @@ C++
 
 Tools:
 Visual Studio, VS Code , Rider
+
+Themes : 
+Dark , Light
