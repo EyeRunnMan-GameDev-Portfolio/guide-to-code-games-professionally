@@ -13,3 +13,6 @@ Visual Studio, VS Code , Rider
 
 Themes : 
 Dark , Light
+
+Roles: 
+Programmer , Technical Artist 
